@@ -4,10 +4,10 @@
   "description": "A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).",
   "author": "John Hildenbiddle",
   "license": "MIT",
-  "homepage": "https://jhildenbiddle.github.io/docsify-themeable/",
+  "homepage": "https://cartolin.github.io/documentacion_general",
   "repository": {
     "type": "git",
-    "url": "git+https://jhildenbiddle@github.com/jhildenbiddle/docsify-themeable.git"
+    "url": "git+https://github.com/cartolin/documentacion_general.git"
   },
   "bugs": {
     "url": "https://github.com/jhildenbiddle/docsify-themeable/issues"

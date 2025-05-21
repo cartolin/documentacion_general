@@ -1,13 +1,19 @@
-# docsify-themeable
+<!-- docs/coverpage.md -->
 
-> A delightfully simple theme system for [docsify.js](https://docsify.js.org)
+<div class="coverpage">
+  # 📘 Documentación Integral
 
-- Customize using CSS custom properties
-- Zero packages to install or build
-- Improved desktop and mobile experience
-- Multiple themes available
-- Legacy browser support (IE11+)
+  **Tu punto central para aprender y consultar: Matemática, Programación, Infraestructura y más.**
 
-[Get Started](introduction)
-[Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-[GitHub](https://github.com/jhildenbiddle/docsify-themeable)
+  Explora secciones especializadas:
+  - 🔢 **Matemática**: teoría clara, ejemplos prácticos y ejercicios resueltos en álgebra, cálculo, estadística y probabilidad.  
+  - 💻 **Programación**: tutoriales paso a paso en JavaScript, Python, Java, TypeScript y frameworks modernos.  
+  - 🖥️ **Servidores & DevOps**: guías de instalación y configuración en Linux, Nginx, Docker, Kubernetes, CI/CD y seguridad.  
+  - 🔬 **Investigación**: metodologías, análisis de datos, redacción académica y mejores prácticas bibliográficas.  
+  - 📦 **Recursos**: cheatsheets, snippets, plantillas y herramientas para optimizar tu flujo de trabajo.
+</div>
+
+<div class="coverpage-buttons">
+  [🚀 Empezar ahora](#/introduction.md)  
+  [🗂️ Ver índice completo](#/sidebar.md)
+</div>
